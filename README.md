@@ -23,4 +23,4 @@ python main.py
 
 
 ## Credits
-- Lavet af [GoT Flamingo🦩](https://github.com/gotflamingo)
+- Lavet af [GoT Flamingo🦩](https://github.com/gotflamingodk)
